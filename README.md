@@ -33,3 +33,6 @@ a martial art developed in the Ryukyu Kingdom. It developed from the indigenous 
 
 ![K2](https://user-images.githubusercontent.com/120413183/207566582-8f4ad76d-fb21-46fa-bdab-b9b66c1c28e3.PNG)
 
+There are more other forms of martial arts that are also considered effective and deadly. But my favorite guy since I was a little boy is this man right here.
+
+![J](https://user-images.githubusercontent.com/120413183/207567924-e5a6cce4-568a-482f-94af-c288a71cd1e7.PNG)
