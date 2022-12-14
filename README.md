@@ -32,7 +32,7 @@
         </section>
     </main>
     <footer>
-        <p>Ryan Bagan Lab04</p>
+        &copy;Ryan Bagan Lab04
     </footer>
 
 </body>
