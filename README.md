@@ -28,7 +28,7 @@
             <p> A martial art developed in the Ryukyu Kingdom. It developed from the indigenous Ryukyuan martial arts (called te (手), "hand"; tii in Okinawan) under the influence of Chinese martial arts, particularly Fujian White Crane. Karate is now predominantly a striking art using punching, kicking, knee strikes, elbow strikes and open-hand techniques such as knife-hands, spear-hands and palm-heel strikes.<a href="https://en.wikipedia.org/wiki/Karate">Source</a></p>
         </section>
         <section>
-            <p>These Martial Arts are very effective and deadly. Requires practice and time to reach a certian level of degree in each discipline. My facvorite martial artist is the guy below. Been my idol since I was a little boy.<a href="https://en.wikipedia.org/wiki/Jet_Li">1</a></p>
+            <p>These Martial Arts are very effective and deadly. Requires practice and time to reach a certain level of degree in each discipline. My favorite martial artist and action star is the guy below. Been my idol since I was a little boy.<a href="https://en.wikipedia.org/wiki/Jet_Li">1</a></p>
             <img width="40%" src="https://i.pinimg.com/originals/68/1d/9b/681d9bb53d2a1070448b55f581cd1413.jpg" alt="Jet Li 2" srcset="">
         </section>
     </main>
