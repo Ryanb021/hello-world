@@ -1,5 +1,3 @@
-
-</head>
 <body>
     <header>
         <h1>Types of Martial Arts</h1>
