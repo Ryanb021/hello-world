@@ -10,7 +10,7 @@
         </nav>
     </header>
     <main>
-        <img width="60%" src="image.png" alt="Donnie Yen">
+        <img width="60%" src="https://static01.nyt.com/images/2011/04/22/arts/22legend-span/22legend-span-articleLarge.jpg?quality=75&auto=webp&disable=upscale" alt="Donnie Yen">
         <section>
             <h2>Kung Fu</h2>
             <img width="40%" src="image.png" alt="Jet Li" srcset="">
