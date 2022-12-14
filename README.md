@@ -16,7 +16,6 @@
             <img width="40%" src="https://drunkenfist.com/wp-content/uploads/2017/02/fist-of-legend-jet-li.jpg" alt="Jet Li" srcset="">
             <p>Primarily an unarmed Chinese martial art resembling karate. Each form of kung fu has its own principles and techniques, but is best known for its trickery and quickness, which is where the word kung fu is derived.<a href="https://en.wikipedia.org/wiki/Kung_fu_(term)">Source</a></p>
         </section>
-        <img width="60%" src="image.png" alt="Donnie Yen">
         <section>
             <h2>Bajiquan</h2>
             <img width="40%" src="https://www.razorfine.com/wp-content/uploads/2013/11/the-grandmaster-pic5.jpg" alt="Razor" srcset="">
