@@ -3,11 +3,6 @@ body {
     margin: 100px;
   }
   
-  header {
-    background-color: rgba(212, 34, 117, 0.614);
-    border: 3px solid rgb(61, 16, 121);
-    height: 150px;
-  }
   
   li {
     color: gray;
