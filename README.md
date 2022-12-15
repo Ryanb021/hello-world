@@ -1,6 +1,5 @@
 <body>
     <header>
-    <link rel="stylesheet" href="Style.css">
         <h1>Types of Martial Arts</h1>
         <nav>
             <ul>
