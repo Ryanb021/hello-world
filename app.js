@@ -1,14 +1,13 @@
 function askUser(){
-let intention = prompt("Will you be punching someone today? Y/N");
-if (intention == ""){
-    intention = prompt("Y or N answer is all I need really");
-if (intention==Y){
-    console.log("Have fun punching that person!");
-}
-if (intention==N){
-    console.log("Aww, maybe next time you will decide to punch that person.");
-}
-}
+
+    var do = "Y";
+    var response;
+
+    while(response != do){
+        respnse = window.prompt("Will you be punching someone today?");
+    
+    }
+    alert("Have fun punching that person");
     }
 
 askUser();
