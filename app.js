@@ -7,7 +7,7 @@ function askUser(){
         respnse = window.prompt("Will you be punching someone today?");
     
     }
-    alert("Have fun punching that person");
+    alert("Have fun punching that person!");
     }
 
 askUser();
