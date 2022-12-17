@@ -1,4 +1,7 @@
-    function howmanyfist() {
+let newFunction = function (){
+	console.log("Hi from the new function");
+  }	
+	function howmanyfist() {
     let numFist = prompt('Guess how many fist you will see here? Choose between 1 to 5')
     while (numFist > 5 || numFist <= 0) {
         numFist = prompt('I said between 1 to 5!!!)')
