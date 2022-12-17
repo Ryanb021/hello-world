@@ -1,14 +1,11 @@
-body{
-function pic(){
-let picture = prompt("Guess how many fists you'll see in my page. Choose between 1 to 5");
-	picture = prompt("Guess how many fists you'll see in my page. Choose from 1 to 5");
-}
-while picture (picture>5 || picture<1){
-	alert("Cmon I said between 1 to 5!!!")
-	rating = prompt("Guess how many fists you'll see in my page. Choose between 1 to 5");
-}
+function howManyLives() {
+    let numOfLives = prompt('How many lives do you want to start with? (1-5)')
+    while (numOfLives > 5 || numOfLives <= 0) {
+        numOfLives = prompt('Please reenter how many lives you want to start with. (1-5)')
+    };
 
-for let (let i=0;i<picture; i++){
-	document.write("<img src='https://images.pexels.com/photos/635356/pexels-photo-635356.jpeg?cs=srgb&dl=pexels-neosiam-635356.jpg&fm=jpg' alt='fist' width='15' height='20/>");
-}
-}
+    for (let i = 0; i < numOfLives; i++) {
+        document.write(
+            "<img width='30px' height='30px' src='https://orig04.deviantart.net/253e/f/2015/073/1/b/pink_pixel_heart_gif_by_kerostudio-d8fohut.gif' alt='pixel hearts'/>"
+        );
+    }
