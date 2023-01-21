@@ -12,11 +12,9 @@ let choice = confirm("You have to punch someone when entering this site");
 //response = window.prompt("Guess how many fists are in this page? Choose between 1 to 5.");
 //}
 
-function numFist(){
 let userNum = prompt("How many fists do you want to see in this page? Choose between 1 to 5.")
 for (let i = 0; i < userNum; i++) {
     document.write("<img src='\Ryanb021\hello-world\blob\main\fist-png-32947.png' alt='fist'>" + (i + 1))
-}
 }
 
 var ask = "Y";
